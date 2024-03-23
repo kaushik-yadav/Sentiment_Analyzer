@@ -1,6 +1,6 @@
 # Sentiment_Analyzer
 
---- This sentiment analyzer is designed to evaluate the sentiment of textual data extracted from URLs provided in an Excel input file. 
+*** This sentiment analyzer is designed to evaluate the sentiment of textual data extracted from URLs provided in an Excel input file. 
 --- The process involves several steps including web scraping, text preprocessing, sentiment analysis, and output generation.
 ---The script is multithreaded for efficient processing of multiple URLs concurrently.
 ---This script will generate an Excel file named output.xlsx containing sentiment analysis results for each URL based on the desired Input.xlsx Excel file.
